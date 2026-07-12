@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Aspiring Java Full Stack Developer | ☕ Java & Spring Boot | ⚛️ React | 🤖 Exploring AI/ML | 📚 Always learning |
+💻 Aspiring Full Stack Developer | ☕ Java & Spring Boot | ⚛️ React | 🤖 Exploring AI/ML | 📚 Always learning |
 (CE ’28) 🚀 | Driven by Scalable Architecture and Innovation. ✨| 
 
 
